@@ -1,0 +1,22 @@
+{
+  "name": "ngoclannnn-add-sub",
+  "version": "1.0.11",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngoclannnn/ngoclannnn-add-sub.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "manhcuongsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngoclannnn/ngoclannnn-add-sub/issues"
+  },
+  "homepage": "https://github.com/ngoclannnn/ngoclannnn-add-sub#readme"
+}
